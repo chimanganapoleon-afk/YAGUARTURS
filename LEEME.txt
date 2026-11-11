@@ -1,0 +1,7 @@
+YAGUAR TOURS — SITIO ACTUALIZADO
+
+Se añadió el menú «ANÁLISIS DE IMAGEN PÚBLICA DE LA EMPRESA YAGUAR TOURS» a las páginas HTML y se creó analisis-imagen-publica.html.
+
+Extrae los HTML en la carpeta principal de tu proyecto y conserva tus carpetas originales css/, js/ e img/. Los archivos HTML entregados aquí no incluyen esas carpetas, porque no fueron adjuntadas.
+
+El archivo auditoria-de-la-imagen-completa.html es una versión adicional de auditoría que se ha conservado por separado.
